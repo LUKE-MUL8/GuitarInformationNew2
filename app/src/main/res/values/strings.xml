@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">GuitarInformation</string>
+    <string name="title_activity_screen3">Screen3</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_infopane">Infopane</string>
+    <string name="guitar_information_1">
+        A guitar is a stringed musical instrument that originated from
+many countries. There are acoustic and electric guitars. Acoustic guitars are wood, and play softer music like classical or country. Electric guitars are metal and play
+louder music like rock and pop.
+    </string>
+    <string name="guitar_information_2"> Les Paul was one of the pioneers of the solid-body electric guitar, which made the sound of rock and roll possible. The Gibson Les Paul (seen below) is a solid body electric guitar that was first sold in 1952. The Les Paul was designed by Ted McCarty in collaboration with Les Paul, whom Gibson enlisted to endorse the new model.
+Leo Fender was an American inventor who founded Fender Electric Instrument Manufacturing Company, or "Fender" for short. The guitars, bass guitars, and amplifiers he designed from the 1940s on are still relevant: the Fender Telecaster (1950) was the first mass-produced solid body electric guitar; the Fender Stratocaster (1954, seen below) is among the world\'s most iconic electric guitars. The Stratocaster featured a vibrato arm or "whammy bar."
+In this period the guitar became accepted as a more serious instrument than previously was the case, and many fine composers began writing for it. The typical Baroque guitar now had five courses, the first being single and the others double. .</string>
+    <string name="question_about_video">What Video of the guitar would you like to watch</string>
+    <string name="forBeginners">This Video is for Beginners</string>
+    <string name="forIntermediatePlayers">For Intermediate players</string>
+    <string name="forExperience">This video is for Experienced players</string>
+    <string name="nextPage">Next Page</string>
+    <string name="title_activity_contact_booking">Contact_Booking</string>
+    <string name="title_activity_music_player_screen">Music_player_screen</string>
+    <string name="title_activity_music_player">MusicPlayer</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="channelId">guitarremind</string>
+    <string name="sound_prompt">Choose sound:</string>
+
+    <string-array name="sound_arrays">
+        <item>Silent</item>
+        <item>Click</item>
+        <item>Wood</item>
+        <item>Metal</item>
+    </string-array>
+
+</resources>
